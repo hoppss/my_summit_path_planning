@@ -11,6 +11,8 @@ $ git clone https://github.com/shriarul5273/my_summit_path_planning.git
 
 $ git clone https://github.com/shriarul5273/my_summit_mapping.git
 
+$ git clone https://github.com/shriarul5273/my_summit_localization.git
+
 $ cd ~/catkin_ws
 
 $ catkin_make
